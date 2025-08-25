@@ -1,8 +1,8 @@
 # 💫 Sobre Mim:
-🔭 Desejo me aprofundar em back-end<br>🌱 Estou aprendendo POO<br>👯 Quero aprender mais sobre Pyhton<br>💬 Vamos conversar sobre IA<br>
+🔭 Desejo me aprofundar em back-end<br>🌱 Estou aprendendo POO<br>📝 Quero aprender mais sobre Pyhton<br>💬 Gosto de conversar sobre IAs<br>
 
 
-## 🌐 Sociais:
+# 🌐 Sociais:
 <a href="mailto:gabrielsns2016@gmail.com">
   <img src="https://img.shields.io/badge/Email-Sá-blue?style=for-the-badge&logo=gmail" />
 </a>
