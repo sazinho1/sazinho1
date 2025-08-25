@@ -1,6 +1,5 @@
-# Bem vindo ao meu perfil no Github!👋
+# 👋 Bem vindo ao meu perfil no Github!<br> Algumas coisas sobre mim:
 
-# 💫 Sobre Mim:
 🔭 Desejo me aprofundar em back-end<br>
 🌱 Estou aprendendo POO<br>
 📝 Quero aprender mais sobre Pyhton<br>
