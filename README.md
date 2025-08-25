@@ -1,4 +1,5 @@
-# 👋 Bem vindo ao meu perfil no Github!<br><br> 🙋‍♂️ Algumas coisas sobre mim:
+# 👋 Bem vindo ao meu perfil no Github!<br><br> 
+# 🙋‍♂️ Algumas coisas sobre mim:
 
 🔭 Desejo me aprofundar em back-end<br>
 🌱 Estou aprendendo POO<br>
