@@ -3,7 +3,7 @@
 
 🔭 Desejo me aprofundar em back-end<br>
 🌱 Estou aprendendo POO<br>
-📝 Quero aprender mais sobre Pyhton<br>
+📝 Quero aprender mais sobre Java<br>
 💬 Gosto de conversar sobre IAs<br>
 
 
