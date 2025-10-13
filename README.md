@@ -21,7 +21,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sazinho1&icon=0&color=2)](https://visitcount.itsvg.in)
-
 # 🙋‍♂️ Algumas coisas sobre mim:
 
 🔭 Desejo me aprofundar em back-end<br>
