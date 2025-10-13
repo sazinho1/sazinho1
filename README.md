@@ -1,11 +1,4 @@
 # 👋 Bem vindo ao meu perfil no Github!<br>
-# 🙋‍♂️ Algumas coisas sobre mim:
-
-🔭 Desejo me aprofundar em back-end<br>
-🌱 Estou aprendendo POO<br>
-📝 Quero aprender mais sobre Java<br>
-💬 Gosto de conversar sobre IAs<br>
-
 
 # 🌐 Sociais:
 <a href="mailto:gabrielsns2016@gmail.com">
@@ -28,3 +21,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sazinho1&icon=0&color=2)](https://visitcount.itsvg.in)
+
+# 🙋‍♂️ Algumas coisas sobre mim:
+
+🔭 Desejo me aprofundar em back-end<br>
+🌱 Estou aprendendo POO<br>
+📝 Quero aprender mais sobre Java<br>
+💬 Gosto de conversar sobre IAs<br>
