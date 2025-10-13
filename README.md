@@ -19,11 +19,12 @@
 # 📊 Estatísticas:
 ![sazinho1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sazinho1&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=sazinho1&icon=0&color=2)](https://visitcount.itsvg.in)
 # 🙋‍♂️ Algumas coisas sobre mim:
 
 🔭 Desejo me aprofundar em back-end<br>
 🌱 Estou aprendendo POO<br>
 📝 Quero aprender mais sobre Java<br>
 💬 Gosto de conversar sobre IAs<br>
+
+---
+[![](https://visitcount.itsvg.in/api?id=sazinho1&icon=0&color=2)](https://visitcount.itsvg.in)
