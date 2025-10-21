@@ -1,6 +1,6 @@
-# 👋 Bem vindo ao meu perfil no Github!<br>
+# 👋 Welcome to my GitHub profile!<br>
 
-# 🌐 Sociais:
+# 🌐 Socials:
 <a href="mailto:gabrielsns2016@gmail.com">
   <img src="https://img.shields.io/badge/Email-Sá-blue?style=for-the-badge&logo=gmail" />
 </a>
@@ -8,23 +8,25 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-# 💻 Tecnologias e Ferramentas que estou usando:
+# 💻 Tecnologies and WorkTools that i'm using:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="Github"/>
 </div>
 
-# 📊 Estatísticas:
+# 📊 Statistics:
 ![sazinho1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sazinho1&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
-# 🙋‍♂️ Algumas coisas sobre mim:
+# 🙋‍♂️ About me:
 
-🔭 Desejo me aprofundar em back-end<br>
-🌱 Estou aprendendo POO<br>
-📝 Quero aprender mais sobre Java<br>
-💬 Gosto de conversar sobre IAs<br>
+🔭 Looking foward to delve depper into back end development<br>
+🌱 Learing OOP<br>
+📝 Want to learn more about Java and JS<br>
+💬 Like to chat about AIs<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sazinho1&icon=0&color=2)](https://visitcount.itsvg.in)
