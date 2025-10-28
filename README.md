@@ -1,7 +1,7 @@
 # 👋 Welcome to my GitHub profile!<br>
 
 # 🌐 Socials:
-<a href="mailto:gabrielsns2016@gmail.com">
+<a href="mailto:dev.gabrielnogueira@gmail.com">
   <img src="https://img.shields.io/badge/Email-Sá-blue?style=for-the-badge&logo=gmail" />
 </a>
 <a href="https://www.linkedin.com/in/gabriel-s%C3%A1-4a7b4a319/" target="_blank">
