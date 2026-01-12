@@ -19,9 +19,7 @@
 </div>
 
 # 📊 Statistics:
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sazinho1&layout=compact&theme=monochrome)
-
-
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sazinho1&layout=compact&theme=monochrome&cache_seconds=86400&hide_progress=true)
 
 
 # 🙋‍♂️ About me:
