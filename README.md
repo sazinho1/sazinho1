@@ -19,7 +19,8 @@
 </div>
 
 # 📊 Statistics:
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sazinho1&layout=compact&theme=graywhite&langs_count=6)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sazinho1&layout=compact&theme=monochrome)
+
 
 
 
