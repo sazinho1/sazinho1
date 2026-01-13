@@ -19,8 +19,6 @@
 </div>
 
 # 📊 Statistics:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sazinho1&show_icons=true&theme=monochrome)
-
 
 
 # 🙋‍♂️ About me:
