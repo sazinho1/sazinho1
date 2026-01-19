@@ -19,7 +19,7 @@
 </div>
 
 # 📊 Statistics:
-
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazinho1&layout=compact&theme=dark&langs_count=5">
 
 # 🙋‍♂️ About me:
 
