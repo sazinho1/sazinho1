@@ -25,8 +25,8 @@
 # 🙋‍♂️ About me:
 
 🔭 Looking foward to delve depper into back end development<br>
-🌱 Learing OOP<br>
-📝 Want to learn more about Java and JS<br>
+🌱 Learing Django<br>
+📝 Want to learn more about SQL and ML<br>
 💬 Like to chat about AIs<br>
 
 ---
