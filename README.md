@@ -28,7 +28,7 @@
 📝 Want to learn more about SQL and ML<br>
 💬 Like to chat about AIs<br>
 
-### JMJ 🇻🇦
-
 ---
+
+### JMJ 🇻🇦
 [![](https://visitcount.itsvg.in/api?id=sazinho1&icon=0&color=2)](https://visitcount.itsvg.in)
