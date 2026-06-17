@@ -1,9 +1,8 @@
-# 👋 Welcome to my GitHub profile!<br>
-
 # 🌐 Socials:
 <a href="mailto:dev.gabrielnogueira@gmail.com">
   <img src="https://img.shields.io/badge/Email-Sá-blue?style=for-the-badge&logo=gmail" />
 </a>
+
 <a href="https://www.linkedin.com/in/gabriel-s%C3%A1-4a7b4a319/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
@@ -28,6 +27,8 @@
 🌱 Learing Django<br>
 📝 Want to learn more about SQL and ML<br>
 💬 Like to chat about AIs<br>
+
+### JMJ 🇻🇦
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sazinho1&icon=0&color=2)](https://visitcount.itsvg.in)
