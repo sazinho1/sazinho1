@@ -4,10 +4,10 @@
 
 # 🌐 Socials:
 <a href="mailto:dev.gabrielnogueira@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Sá-blue?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Send Message-blue?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://www.linkedin.com/in/gabriel-s%C3%A1-4a7b4a319/" target="_blank">
+<a href="https://www.linkedin.com/in/gabriel-s%C3%A1-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
